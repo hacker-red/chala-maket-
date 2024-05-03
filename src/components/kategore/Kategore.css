@@ -1,0 +1,58 @@
+.date_carad_sweper {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 30px 20px;
+   
+}
+
+
+.karusel_top_text {
+    padding: 0px 100px;
+    margin-bottom: 30px;
+    font-family: "Montserrat600.ttf";
+    font-size: 25px;
+}
+
+
+
+.swiper_card {
+    width: 182px;
+    height: 182px;
+    border-radius: 20px;
+    border: 1px solid #BCBCBC
+}
+
+.img1 {
+    width: 111px;
+    height: 102px;
+    cursor: pointer;
+}
+
+.swiper_img {
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    margin-top: 30px;
+}
+
+.appele {
+    width: 87px;
+    height: 17px;
+    font-family: "Montserrat500.ttf";
+    padding-top: 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.appele_one{
+    width: 100px;
+    height: 17px;
+    font-size: 15px;
+    font-family: "Montserrat500.ttf";
+    padding-top: 10px;
+    cursor: pointer;
+}
+.img2 {
+    max-width: 150px;
+    height: 102px;
+    cursor: pointer;
+}

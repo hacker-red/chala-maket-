@@ -1,0 +1,183 @@
+.prodaj_box_card_lingiz {
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: -100px;
+}
+
+.prodaj_card_swiper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* gap: 10px; */
+    margin-bottom: 100px;
+}
+
+.btn_card_centir_gap {
+    display: flex;
+    gap: 10px;
+}
+
+.prodaj_btn1 {
+    width: 52px;
+    height: 31px;
+    font-family: "Montserrat500.ttf";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17.07px;
+    /* text-align: center; */
+    background: none;
+    font-weight: 800;
+}
+
+.prodaj_btn {
+    width: 140px;
+    height: 31px;
+    font-family: "Montserrat500.ttf";
+    font-size: 13px;
+}
+
+.xareta_text {
+    width: 200px;
+    font-family: "Montserrat600.ttf";
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30.48px;
+}
+
+.tel_sweper_tecno4 {
+    width: 200px;
+    height: 491px;
+    border: 1px solid gray;
+    border-radius: 20px;
+
+}
+
+.mySwiper1 {
+    max-width: 1400px;
+    height: 500px;
+}
+
+.dgsgrh {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 20px;
+}
+
+.soon39 {
+    width: 42px;
+    height: 22px;
+    background: #FB0F40;
+    color: white;
+    font-family: "Montserrat500.ttf";
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 15.85px;
+    padding: 4px 5px;
+    border-radius: 20px;
+}
+
+.tovar_text1 {
+    width: 135px;
+    height: 22px;
+    background: #FB0F40;
+    color: white;
+    font-family: "Montserrat500.ttf";
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 15.85px;
+    padding: 3px 5px;
+    border-radius: 5px;
+
+}
+
+.galakse {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    padding-top: 10px;
+    width: 170px;
+    height: 170px;
+}
+
+.starsoot {
+    display: flex;
+    color: gold;
+    width: 41px;
+    height: 17px;
+}
+
+.samatifon_text {
+    width: 257px;
+    height: 42px;
+    font-family: "Montserrat600.ttf";
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 20.72px;
+    text-align: left;
+    margin-bottom: 15px;
+
+}
+
+.drell_soon_dell {
+    display: flex;
+    gap: 10px;
+    width: 200px;
+    height: 24px;
+    margin-bottom: 15px;
+    color: #FB0F40;
+    font-size: 20px;
+    font-family: "Montserrat600.ttf";
+}
+
+.egreh {
+    font-size: 15px;
+    padding-top: 5px;
+    color: #8C8C8C;
+}
+
+.karzenka_btn {
+    width: 257px;
+    height: 37px;
+    transition: .5s;
+    border-radius: 10px;
+    background: #FB0F40;
+    border: 1px solid transparent;
+    color: white;
+    margin-left: -20px;
+    font-family: "Montserrat500.ttf";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17.07px;
+    text-align: center;
+
+    cursor: pointer;
+}
+
+.will_help {
+    padding: 0px 40px;
+}
+
+
+.karzenka_btn:hover {
+    background-color: transparent;
+    color: #FB0F40;
+    border: 1px solid #FB0F40;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.prodaj_icons_card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 0px;
+    gap: 30px;
+}
+
+.foryou_iconserr {
+    font-size: 22px;
+    cursor: pointer;
+}

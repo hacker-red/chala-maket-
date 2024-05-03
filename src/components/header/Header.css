@@ -1,0 +1,202 @@
+.header_contayner {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0pa 20px;
+}
+
+.header {
+
+    padding: 25px 98px 55px 100px;
+}
+
+.header_top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 35px;
+}
+
+.navbar_text {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.navbar_text_link {
+    text-decoration: none;
+    font-family: "Montserrat400.ttf";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.07px;
+    text-align: left;
+    color: #2A1F20;
+    transition: .5s;
+}
+
+.navbar_text_link:hover {
+    color: red;
+    transition: .5s;
+}
+
+.header_right_icons_card {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.header_call_gap {
+    text-decoration: none;
+    display: flex;
+    gap: 10px;
+}
+
+.header_iconis_gap {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #000;
+    font-family: "Montserrat500.ttf";
+    font-size: 14px;
+}
+
+.call_text_icon_right,
+.loction_icons {
+    color: red;
+}
+
+.mackiva_text {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: "Montserrat500.ttf";
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.header_main {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding: 0px 30px;
+}
+
+.header_input_cetir {
+    width: 642px;
+    height: 46px;
+
+}
+
+.header_btn_left {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 144px;
+    height: 46px;
+    background: #FB0F40;
+    color: white;
+    border-radius: 7px;
+    border: 1px solid transparent;
+    font-size: 15px;
+    font-family: "Montserrat600.ttf";
+    transition: .5s;
+    cursor: pointer;
+}
+
+.header_btn_left:hover {
+    background-color: transparent;
+    border: 1px solid red;
+    color: red;
+    transition: .5s;
+}
+
+.header_btn_menu_icons {
+    font-size: 25px;
+    font-family: "Montserrat600.ttf";
+}
+
+.header_input_cetir {
+    text-indent: 10px;
+    outline: none;
+    background: #F4F4F4;
+    border-radius: 10px 0px 0px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.from_input_btn_left {
+    width: 40px;
+    height: 46px;
+    border: none;
+    font-size: 25px;
+    background: #F4F4F4;
+    padding: 8px 0px;
+    border-radius: 0px 10px 10px 0px;
+    cursor: pointer;
+}
+
+.from_input_card {
+    display: flex;
+}
+
+.header_buttom {
+    display: flex;
+    text-align: center;
+    gap: 50px;
+    padding: 10px 40px;
+
+}
+
+.box_card_heard_left {
+    display: flex;
+}
+
+.icon_bottom {
+    font-size: 25px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.icons_bottom_text_right {
+    width: 59px;
+    height: 16px;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15.85px;
+    font-family: "Montserrat400.ttf";
+cursor: pointer;
+
+}
+
+.icon_bottom:focus {
+    background-color: red;
+    border: transparent;
+    color: #FFFFFF;
+}
+
+.text_bottom_cettir_flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    padding: 10px 0px;
+    gap: 30px;
+   
+}
+
+
+.text_gap_diss {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: .5s;
+    font-family: "Montserrat500.ttf";
+    font-size: 15px;
+}
+
+
+.text_gap_diss:hover{
+    color: red;
+    transition: .5s;
+}

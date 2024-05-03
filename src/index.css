@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Montserrat400.ttf";
+    src: url("./assets/fonts/Montserrat400.ttf");
+  }
+  
+  @font-face {
+    font-family: "Montserrat500.ttf";
+    src: url("./assets/fonts/Montserrat500.ttf");
+  }
+  
+  @font-face {
+    font-family: "Montserrat600.ttf";
+    src: url("./assets/fonts/Montserrat600.ttf");
+  }
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
